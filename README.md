@@ -9,8 +9,8 @@
 
 ## 1. Identificación del proyecto
 
-- **Nombre de la aplicación:** [Nombre]
-- **Equipo e integrantes:** [Nombres y aportes]
+- **Nombre de la aplicación:** [ARVIX]
+- **Equipo e integrantes:** [DAVID CORDOBA VILLA-FABIAN LINARES-TATIANA GUZMAN]
 - **Enlace a la aplicación:** [Pendiente / URL]
 - **Repositorio del proyecto:** [URL]
 - **Última actualización:** [AAAA-MM-DD]
