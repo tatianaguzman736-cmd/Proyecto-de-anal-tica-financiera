@@ -11,10 +11,9 @@
 
 - **Nombre de la aplicación:** [ARVIX]
 - **Equipo e integrantes:** [DAVID CORDOBA VILLA-FABIAN LINARES-TATIANA GUZMAN]
-- **Enlace a la aplicación:** [Pendiente / URL]
-- **Repositorio del proyecto:** [URL]
-- **Última actualización:** [AAAA-MM-DD]
-
+- **Enlace a la aplicación:** [https://christina-thoughts-flag-picnic.trycloudflare.com/]
+- **Repositorio del proyecto:** ]
+- **Última actualización:** 2026-11-09
 ## 2. ¿Qué queremos investigar? · S25
 
 **Investiga:** ¿qué significa analizar el comportamiento histórico de un activo financiero? ¿Qué preguntas pueden responderse con datos de mercado y cuáles no?
