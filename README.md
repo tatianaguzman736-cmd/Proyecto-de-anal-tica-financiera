@@ -12,7 +12,7 @@
 - **Nombre de la aplicación:** [ARVIX]
 - **Equipo e integrantes:** [DAVID CORDOBA VILLA-FABIAN LINARES-TATIANA GUZMAN]
 - **Enlace a la aplicación:** [https://christina-thoughts-flag-picnic.trycloudflare.com/]
-- **Repositorio del proyecto:** ]
+- **Repositorio del proyecto:https://github.com/tatianaguzman736-cmd/Proyecto-de-anal-tica-financiera/blob/6eacba1a1ee46547938ae599d9bcb3aad2d79b68/monitor_tecnologicas2%20(1).ipynb
 - **Última actualización:** 2026-11-09
 ## 2. ¿Qué queremos investigar? · S25
 
